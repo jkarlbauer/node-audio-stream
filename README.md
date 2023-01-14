@@ -1,2 +1,2 @@
 # node-audio-stream
-Rudimentary Audio Streaming Stever For Experimental Purposes
+Rudimentary Audio Streaming Server For Experimental Purposes
